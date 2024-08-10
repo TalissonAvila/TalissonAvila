@@ -3,7 +3,7 @@
         <ul type = "circle">
             <li>My name is Talisson Avila.</li>
             <li>I'm Computer Science student at IFCE.</li> 
-            <li>I'm learning Front-end and Pyhton.</li>
+            <li>I'm learning about Quality Assurance.</li>
         </ul>
     </p>
 
@@ -12,7 +12,7 @@
         <ul type = "circle">
             <li>Me chamo Talisson Avila.</li>
             <li>Sou estudante de Ciência da Computação no IFCE.</li>
-            <li>Atualmente estudo Front-end e Python.</li>
+            <li>Atualmente estudo sobre qualidade de software.</li>
          </ul>
     </p>
 
@@ -35,7 +35,17 @@
  <img align="center" alt="Talisson-arduino" heitght="30"  width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" />
  <img align="center" alt="Talisson-git" heitght="30"  width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="center" alt="Talisson-docker" heitght="30"  width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />
-
+<img align="center" alt="Talisson-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+<img align="center" alt="Talisson-TS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" /> 
+<img align="center" alt="Talisson-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+<img align="center" alt="Talisson-ViteJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" />
+<img align="center" alt="Talisson-Vitest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitest/vitest-original.svg" />
+<img align="center" alt="Talisson-Pytest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytest/pytest-original.svg" />
+<img align="center" alt="Talisson-Selenium" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" />
+<img align="center" alt="Talisson-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
+<img align="center" alt="Talisson-NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
+<img align="center" alt="Talisson-Npm" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" />
+          
 ## My Social Media | Minhas Rede Sociais
 <div> 
   
