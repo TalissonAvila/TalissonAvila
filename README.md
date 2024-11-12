@@ -3,6 +3,7 @@
         <ul type = "circle">
             <li>My name is Talisson Avila.</li>
             <li>I'm Computer Science student at IFCE.</li> 
+            <li>I'm a Fullstack developer</li> 
             <li>I'm learning about Quality Assurance.</li>
         </ul>
     </p>
@@ -12,6 +13,7 @@
         <ul type = "circle">
             <li>Me chamo Talisson Avila.</li>
             <li>Sou estudante de Ciência da Computação no IFCE.</li>
+            <li>Sou um desenvolvedor Fullstack</li> 
             <li>Atualmente estudo sobre qualidade de software.</li>
          </ul>
     </p>
